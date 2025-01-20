@@ -16,4 +16,4 @@ console.log(LielakaisCipars(10, 20));
 function VidejaisCipars(x, y) {
     return (x+y) / 2;
 }
-console.log(Videjais(15, 35));
+console.log(VidejaisCipars(15, 35));
