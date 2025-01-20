@@ -12,3 +12,8 @@ function LielakaisCipars(x, y) {
     return x > y ? x : y;
 }
 console.log(LielakaisCipars(10, 20));
+
+function VidejaisCipars(x, y) {
+    return (x+y) / 2;
+}
+console.log(VidejaisCipars(15, 35));
